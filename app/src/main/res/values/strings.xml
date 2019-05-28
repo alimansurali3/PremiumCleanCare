@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PremiumCleanCare</string>
+    <string-array name="pilih_paket">
+        <item>__Pilih Paket__</item>
+        <item>Deep Clean</item>
+        <item>Unyellowing</item>
+        <item>Recolour</item>
+    </string-array>
+
+    <string-array name="list_itempict">
+        <item>@drawable/image_1</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_3</item>
+    </string-array>
+
+</resources>
